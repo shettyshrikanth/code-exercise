@@ -1,0 +1,998 @@
+titleId	ordering	title	region	language	types	attributes	isOriginalTitle
+tt0068646	10	De peetvader	BE	qbn	\N	\N	0
+tt0068646	11	Mario Puzo's The Godfather	US	\N	\N	complete title	0
+tt0068646	12	Der Pate	DE	\N	imdbDisplay	\N	0
+tt0068646	13	Крёстный отец	RU	\N	\N	\N	0
+tt0068646	14	El padrino	AR	\N	\N	\N	0
+tt0068646	15	The Godfather	IN	hi	imdbDisplay	\N	0
+tt0068646	16	Le parrain	CA	fr	\N	\N	0
+tt0068646	17	Krstný Otec	CSHH	sk	imdbDisplay	\N	0
+tt0068646	18	Krikštatevis	LT	\N	\N	\N	0
+tt0068646	19	Gudfadern	SE	\N	\N	\N	0
+tt0068646	1	A keresztapa	HU	\N	\N	\N	0
+tt0068646	20	Ristiisa	EE	\N	\N	\N	0
+tt0068646	21	The Godfather	\N	\N	original	\N	1
+tt0068646	22	Godfather	DK	\N	imdbDisplay	\N	0
+tt0068646	23	Ojciec chrzestny	PL	\N	\N	\N	0
+tt0068646	24	Der Pate	XWG	\N	imdbDisplay	\N	0
+tt0068646	25	O nonos	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0068646	26	The Godfather	CA	en	imdbDisplay	\N	0
+tt0068646	27	Mario Puzo's The Godfather	GB	\N	\N	complete title	0
+tt0068646	28	El Padrino	UY	\N	\N	original subtitled version	0
+tt0068646	29	De peetvader	NL	\N	\N	informal literal title	0
+tt0068646	2	Kmotr	CZ	\N	imdbDisplay	\N	0
+tt0068646	30	El padrí	ES	ca	\N	\N	0
+tt0068646	31	O Poderoso Chefão	BR	\N	imdbDisplay	\N	0
+tt0068646	32	Кръстникът	BG	bg	\N	\N	0
+tt0068646	33	Il padrino	IT	\N	imdbDisplay	\N	0
+tt0068646	34	El padrino	ES	\N	imdbDisplay	\N	0
+tt0068646	35	Guðfaðirinn	IS	\N	imdbDisplay	\N	0
+tt0068646	36	Daeboo	KR	\N	imdbDisplay	\N	0
+tt0068646	37	Goddofâzâ	JP	\N	imdbDisplay	\N	0
+tt0068646	38	Der Pate	AT	\N	imdbDisplay	\N	0
+tt0068646	39	Boter	SI	\N	imdbDisplay	\N	0
+tt0068646	3	Gudfaren	NO	\N	imdbDisplay	\N	0
+tt0068646	40	The Godfather	XWW	en	imdbDisplay	\N	0
+tt0068646	41	Kumbari	AL	\N	imdbDisplay	\N	0
+tt0068646	42	Kum	XYU	sr	\N	\N	0
+tt0068646	43	Pedar khandeh	IR	fa	imdbDisplay	\N	0
+tt0068646	44	Le parrain	FR	\N	\N	\N	0
+tt0068646	45	Хрещений батько	UA	\N	\N	\N	0
+tt0068646	46	Godfather	JP	en	\N	\N	0
+tt0068646	47	Baba	TR	tr	\N	\N	0
+tt0068646	48	Kum	HR	\N	imdbDisplay	\N	0
+tt0068646	49	Hasandak	IL	he	\N	\N	0
+tt0068646	4	Kmotr	CSHH	cs	imdbDisplay	\N	0
+tt0068646	50	Крёстный отец	SUHH	ru	\N	\N	0
+tt0068646	51	The Godfather	US	\N	\N	\N	0
+tt0068646	52	El padrino	PE	\N	\N	\N	0
+tt0068646	53	El Padrino	CO	\N	imdbDisplay	\N	0
+tt0068646	54	Al-arraab	EG	ar	imdbDisplay	\N	0
+tt0068646	55	Ο νονός	GR	\N	\N	\N	0
+tt0068646	56	O Padrinho	PT	\N	\N	\N	0
+tt0068646	57	Bo Gia	VN	\N	imdbDisplay	\N	0
+tt0068646	58	The Godfather	US	en	\N	\N	0
+tt0068646	59	El padrino	CL	\N	imdbDisplay	\N	0
+tt0068646	5	Kum	RS	\N	imdbDisplay	\N	0
+tt0068646	60	Nasul	RO	\N	imdbDisplay	\N	0
+tt0068646	6	El Padrino	MX	\N	imdbDisplay	\N	0
+tt0068646	7	Krstný Otec	SK	\N	imdbDisplay	\N	0
+tt0068646	8	Kummisetä	FI	\N	imdbDisplay	\N	0
+tt0068646	9	Natlimama	GE	\N	imdbDisplay	\N	0
+tt0076759	10	O polemos ton astron	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0076759	11	La guerra de las estrellas	US	es	\N	\N	0
+tt0076759	12	Star Wars: A New Hope	US	\N	\N	video box title	0
+tt0076759	13	Star Wars	\N	\N	original	\N	1
+tt0076759	14	Zvezdani ratovi: Nova nada	RS	\N	imdbDisplay	\N	0
+tt0076759	15	Hviezdne vojny IV: Nová nádej	CSHH	sk	imdbDisplay	\N	0
+tt0076759	16	Star Wars: A New Hope	XWW	en	\N	short title	0
+tt0076759	17	Star Wars - Episode IV: Eine neue Hoffnung	DE	\N	\N	new title	0
+tt0076759	18	La guerre des étoiles - Un nouvel éspoir	CA	fr	tv	\N	0
+tt0076759	19	The Star Wars: From the Adventures of Luke Starkiller	US	\N	working	\N	0
+tt0076759	1	Hviezdne vojny 4: Nová nádej	SK	\N	imdbDisplay	\N	0
+tt0076759	20	Star Wars, Episódio IV: Uma Nova Esperança	BR	\N	imdbDisplay	\N	0
+tt0076759	21	Star Wars: Episode IV - A New Hope	XWW	en	imdbDisplay	\N	0
+tt0076759	22	Hvězdné války IV: Nová naděje	CZ	\N	\N	\N	0
+tt0076759	23	Tähtien sota	FI	\N	imdbDisplay	\N	0
+tt0076759	24	Star Wars: Uusi toivo	FI	\N	tv	\N	0
+tt0076759	25	La guerra de las galaxias	ES	\N	imdbDisplay	\N	0
+tt0076759	26	Adventures of the Starkiller: Episode 1 - The Star Wars	US	\N	working	\N	0
+tt0076759	27	Žvaigždžiu karai	LT	\N	\N	\N	0
+tt0076759	28	Gwiezdne wojny	PL	\N	\N	\N	0
+tt0076759	29	La guerra de las galaxias	CO	\N	\N	\N	0
+tt0076759	2	Ratovi zvijezda IV: Nova nada	HR	\N	imdbDisplay	\N	0
+tt0076759	30	Gwiezdne wojny, czesc IV: Nowa nadzieja	PL	\N	\N	reissue title	0
+tt0076759	31	Vojna zvezd: Epizoda IV - Novo upanje	SI	\N	imdbDisplay	\N	0
+tt0076759	32	Razboiul stelelor	RO	\N	imdbDisplay	\N	0
+tt0076759	33	Star Wars IV - Una nuova speranza	IT	\N	\N	video box title	0
+tt0076759	34	La guerra de las galaxias	PE	\N	\N	\N	0
+tt0076759	35	Star Wars: Episode IV - Et nytt håp	NO	\N	\N	new title	0
+tt0076759	36	Stjernekrigen	DK	\N	\N	\N	0
+tt0076759	37	A Guerra das Estrelas	PT	\N	alternative	\N	0
+tt0076759	38	A New Hope	US	\N	\N	short version	0
+tt0076759	39	Sutâ wôzu episoddo 4: Aratanaru kibô	JP	\N	\N	\N	0
+tt0076759	3	Star Wars: Episodio IV - Una nuova speranza	IT	\N	\N	new title	0
+tt0076759	40	Star Wars - Stjernekrigen	NO	\N	imdbDisplay	\N	0
+tt0076759	41	Războiul Stelelor - Episodul IV: O nouă speranţă	RO	\N	\N	\N	0
+tt0076759	42	Guerra nas Estrelas	BR	\N	\N	\N	0
+tt0076759	43	La guerra de las galaxias	CL	\N	\N	\N	0
+tt0076759	44	Ο πόλεμος των άστρων	GR	\N	\N	\N	0
+tt0076759	45	Star Wars: Episod IV - Nytt hopp	SE	\N	\N	new title	0
+tt0076759	46	La guerra de las galaxias	MX	\N	\N	\N	0
+tt0076759	47	The Star Wars	US	\N	\N	original script title	0
+tt0076759	48	Star wars: Osa IV - Uus lootus	EE	\N	imdbDisplay	\N	0
+tt0076759	49	La guerra de las galaxias	VE	\N	\N	\N	0
+tt0076759	4	Star Wars	AU	\N	imdbDisplay	\N	0
+tt0076759	50	O polemos ton astron: Mia nea elpida	GR	\N	video	\N	0
+tt0076759	51	Yildiz Savaslari: Bölüm IV - Yeni Bir Umut	TR	tr	alternative	\N	0
+tt0076759	52	La guerra de las galaxias	PA	\N	\N	\N	0
+tt0076759	53	Stjärnornas krig	FI	sv	imdbDisplay	\N	0
+tt0076759	54	Звёздные войны. Эпизод 4: Новая надежда	RU	\N	\N	\N	0
+tt0076759	55	Ratovi zvezda - Nova nada	RS	\N	alternative	\N	0
+tt0076759	56	Hvězdné války IV: Nová naděje	CSHH	cs	\N	\N	0
+tt0076759	57	Star Wars: Episode IV - A New Hope	NL	\N	imdbDisplay	\N	0
+tt0076759	58	Star Wars: Episode IV - A New Hope	GB	\N	imdbDisplay	\N	0
+tt0076759	59	Star Wars	CA	en	imdbDisplay	\N	0
+tt0076759	5	Star wars: Épisode IV, la guerre des étoiles	FR	\N	tv	\N	0
+tt0076759	60	Междузвездни войни: Епизод IV - Нова Надежда	BG	bg	\N	\N	0
+tt0076759	61	Războiul Stelelor: Ediţie specială	RO	\N	\N	\N	0
+tt0076759	62	Jang-e setarehha	IR	fa	alternative	\N	0
+tt0076759	63	Star Wars IV. rész - Egy új remény	HU	\N	\N	new title	0
+tt0076759	64	La guerra de las galaxias	UY	\N	\N	original subtitled version	0
+tt0076759	65	Ratovi zvijezda	HR	\N	video	\N	0
+tt0076759	66	Stjörnustríð	IS	\N	\N	\N	0
+tt0076759	67	The Adventures of Luke Starkiller as Taken from the 'Journal of the Whills': Saga I - Star Wars	US	\N	working	\N	0
+tt0076759	68	Csillagok háborúja	HU	\N	\N	\N	0
+tt0076759	69	Star Wars: Episodio IV - Una nueva esperanza	MX	\N	\N	reissue title	0
+tt0076759	6	Звёздные войны. Эпизод 4: Новая надежда	SUHH	ru	\N	\N	0
+tt0076759	70	Yildiz Savaslari	TR	tr	imdbDisplay	\N	0
+tt0076759	71	La guerre des étoiles	CA	fr	\N	\N	0
+tt0076759	72	Tähtede sõda	EE	\N	\N	\N	0
+tt0076759	73	Star Wars: Episode IV - A New Hope	US	\N	imdbDisplay	\N	0
+tt0076759	74	Krieg der Sterne	XWG	\N	imdbDisplay	\N	0
+tt0076759	75	Stjärnornas krig	SE	\N	imdbDisplay	\N	0
+tt0076759	76	La guerre des étoiles	FR	\N	\N	\N	0
+tt0076759	77	Guerre stellari	IT	\N	imdbDisplay	\N	0
+tt0076759	78	Звёздные войны	SUHH	ru	\N	\N	0
+tt0076759	79	The War of the World	TH	en	\N	poster title	0
+tt0076759	7	La guerra de las galaxias	AR	\N	\N	\N	0
+tt0076759	80	Hviezdne vojny IV: Nová nádej	SK	\N	\N	\N	0
+tt0076759	81	Star Wars: Episode IV - A New Hope	US	en	\N	\N	0
+tt0076759	82	Зорянi вiйни: Епiзод 4 - Нова надiя	UA	\N	\N	\N	0
+tt0076759	83	Star Wars: Episodi IV - Uusi toivo	FI	\N	\N	new title	0
+tt0076759	8	Star Wars: Episódio IV - Uma Nova Esperança	PT	\N	imdbDisplay	\N	0
+tt0076759	9	Star Wars: Episodio IV - Una nueva esperanza	ES	\N	\N	reissue title	0
+tt0102926	10	The Silence of the Lambs	CA	en	imdbDisplay	\N	0
+tt0102926	11	The Silence of the Lambs	\N	\N	original	\N	1
+tt0102926	12	Η σιωπή των αμνών	GR	\N	\N	\N	0
+tt0102926	13	O Silêncio dos Inocentes	PT	\N	\N	\N	0
+tt0102926	14	När lammen tystnar	SE	\N	\N	\N	0
+tt0102926	15	Sokout-e bareha	IR	fa	imdbDisplay	\N	0
+tt0102926	16	Le silence des agneaux	FR	\N	\N	\N	0
+tt0102926	17	El silencio de los inocentes	CO	\N	\N	dubbed version	0
+tt0102926	18	När lammen tystnar	FI	sv	imdbDisplay	\N	0
+tt0102926	19	Le silence des agneaux	CA	fr	\N	\N	0
+tt0102926	1	Молчание ягнят	RU	\N	\N	\N	0
+tt0102926	20	Kad jaganjci utihnu	RS	\N	\N	\N	0
+tt0102926	21	Ko jagenjčki obmolknejo	SI	\N	\N	\N	0
+tt0102926	22	El silenci dels anyells	ES	ca	\N	\N	0
+tt0102926	23	Das Schweigen der Lämmer	DE	\N	\N	\N	0
+tt0102926	24	Mlčanie jahniat	CSHH	sk	\N	\N	0
+tt0102926	25	Kravta dumili	GE	\N	alternative	\N	0
+tt0102926	26	The Silence of the Lambs	XWW	en	imdbDisplay	\N	0
+tt0102926	27	Uhrilampaat	FI	\N	imdbDisplay	\N	0
+tt0102926	28	Silence of the Lambs	US	\N	\N	informal short title	0
+tt0102926	29	Nattsvermeren	NO	\N	\N	\N	0
+tt0102926	2	Voonakeste vaikimine	EE	\N	imdbDisplay	\N	0
+tt0102926	30	Kuzularin Sessizligi	TR	tr	imdbDisplay	\N	0
+tt0102926	31	Kad jaganjci utihnu	HR	\N	imdbDisplay	\N	0
+tt0102926	32	The Silence of the Lambs	US	\N	\N	\N	0
+tt0102926	33	Мълчанието на агнетата	BG	bg	\N	\N	0
+tt0102926	34	Молчание ягнят	SUHH	ru	\N	\N	0
+tt0102926	35	El silencio de los inocentes	AR	\N	\N	\N	0
+tt0102926	36	Su Im Lang Cua Bay Cuu	VN	\N	imdbDisplay	\N	0
+tt0102926	37	Somt alhemlan	EG	ar	imdbDisplay	\N	0
+tt0102926	38	The Silence of the Lambs	US	en	\N	\N	0
+tt0102926	39	I siopi ton amnon	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0102926	3	Milczenie owiec	PL	\N	\N	\N	0
+tt0102926	40	Il silenzio degli innocenti	IT	\N	\N	\N	0
+tt0102926	41	El silencio de los inocentes	PE	\N	\N	\N	0
+tt0102926	42	O Silêncio dos Inocentes	BR	\N	\N	\N	0
+tt0102926	43	Mlčení jehňátek	CSHH	cs	\N	\N	0
+tt0102926	44	El silencio de los inocentes	MX	\N	\N	\N	0
+tt0102926	45	Mlčanie Jahniat	SK	\N	\N	\N	0
+tt0102926	46	A bárányok hallgatnak	HU	\N	\N	\N	0
+tt0102926	47	The Silence of the Lambs	GB	\N	imdbDisplay	\N	0
+tt0102926	48	El silencio de los corderos	ES	\N	imdbDisplay	\N	0
+tt0102926	49	Mlčení jehňátek	CZ	\N	\N	\N	0
+tt0102926	4	The Silence of the Lambs	IN	hi	imdbDisplay	\N	0
+tt0102926	50	Das Schweigen der Lämmer	AT	\N	\N	\N	0
+tt0102926	51	Hitsujitachi no Chinmoku	JP	\N	\N	\N	0
+tt0102926	52	De schreeuw van het lam	NL	\N	\N	informal literal title	0
+tt0102926	53	Tacerea mieilor	RO	\N	\N	\N	0
+tt0102926	5	Avineliu tylejimas	LT	\N	imdbDisplay	\N	0
+tt0102926	6	El silencio de los inocentes	CL	\N	imdbDisplay	\N	0
+tt0102926	7	Ondskabens øjne	DK	\N	\N	\N	0
+tt0102926	8	Мовчання ягнят	UA	\N	\N	\N	0
+tt0102926	9	El silencio de los inocentes	UY	\N	\N	\N	0
+tt0108052	10	Schindler's List	IN	hi	imdbDisplay	\N	0
+tt0108052	11	Fehrest-e Schindler	IR	fa	imdbDisplay	\N	0
+tt0108052	12	Steven Spielberg's Schindler's List	DE	\N	\N	DVD box title	0
+tt0108052	13	Schindlerův seznam	CZ	\N	\N	\N	0
+tt0108052	14	La liste de Schindler	CA	fr	\N	\N	0
+tt0108052	15	La llista de Schindler	ES	ca	\N	\N	0
+tt0108052	16	Shindorâ no risuto	JP	\N	\N	alternative transliteration	0
+tt0108052	17	La lista de Schindler	PE	\N	\N	\N	0
+tt0108052	18	La lista de Schindler	MX	\N	imdbDisplay	\N	0
+tt0108052	19	La lista de Schindler	CL	\N	imdbDisplay	\N	0
+tt0108052	1	Schindlerjev seznam	SI	\N	\N	\N	0
+tt0108052	20	Schindlers Liste	DE	\N	\N	\N	0
+tt0108052	21	La lista de Schindler	XWW	es	\N	\N	0
+tt0108052	22	Шиндлеровата Листа	MK	\N	\N	\N	0
+tt0108052	23	A Lista de Schindler	BR	\N	\N	\N	0
+tt0108052	24	Schindlers Liste	AT	\N	\N	\N	0
+tt0108052	25	Šindlerov Zoznam	SK	\N	\N	\N	0
+tt0108052	26	Shindleris sia	GE	\N	imdbDisplay	\N	0
+tt0108052	27	La lista de Schindler	ES	\N	imdbDisplay	\N	0
+tt0108052	28	Ban danh sách cua Schindler	VN	\N	imdbDisplay	\N	0
+tt0108052	29	Schindler'in Listesi	TR	tr	imdbDisplay	\N	0
+tt0108052	2	Schindler's List	CA	en	imdbDisplay	\N	0
+tt0108052	30	Списъкът на Шиндлер	BG	bg	\N	\N	0
+tt0108052	31	Schindler's List	\N	\N	original	\N	1
+tt0108052	32	La lista de Schindler	UY	\N	\N	original subtitled version	0
+tt0108052	33	Schindlers lista	FI	sv	\N	\N	0
+tt0108052	34	Schindlerova lista	HR	\N	imdbDisplay	\N	0
+tt0108052	35	Schindlers liste	NO	\N	imdbDisplay	\N	0
+tt0108052	36	Šindlerio sąrašas	LT	\N	\N	\N	0
+tt0108052	37	Schindler's List	US	\N	imdbDisplay	\N	0
+tt0108052	38	Η λίστα του Σίντλερ	GR	\N	\N	\N	0
+tt0108052	39	Список Шиндлера	RU	\N	\N	\N	0
+tt0108052	3	Schindleri nimekiri	EE	\N	\N	\N	0
+tt0108052	40	Schindler listája	HU	\N	\N	\N	0
+tt0108052	41	I lista tou Schindler	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0108052	42	Šindlerova lista	RS	\N	\N	\N	0
+tt0108052	43	La lista de Schindler	AR	\N	\N	\N	0
+tt0108052	44	Lista Schindlera	PL	\N	\N	\N	0
+tt0108052	45	Lista lui Schindler	RO	\N	imdbDisplay	\N	0
+tt0108052	46	Schindler's List	IT	\N	imdbDisplay	\N	0
+tt0108052	47	Shindlerin Siyahisi	AZ	\N	imdbDisplay	\N	0
+tt0108052	48	Schindlers liste	DK	\N	imdbDisplay	\N	0
+tt0108052	49	Schindlerin lista	FI	\N	\N	\N	0
+tt0108052	4	Список Шиндлера	UA	\N	\N	\N	0
+tt0108052	5	La liste de Schindler	FR	\N	\N	\N	0
+tt0108052	6	Schindler's List	GB	\N	\N	literal English title	0
+tt0108052	7	Schindler's List - La lista di Schindler	IT	\N	\N	poster title	0
+tt0108052	8	Reshimut Schindler	IL	he	\N	\N	0
+tt0108052	9	A Lista de Schindler	PT	\N	\N	\N	0
+tt0109830	10	Forrest Gump	ES	\N	imdbDisplay	\N	0
+tt0109830	11	Forrest Gump	HU	\N	\N	\N	0
+tt0109830	12	Forrest Gump	DE	\N	\N	\N	0
+tt0109830	13	Forrest Gump	NO	\N	\N	\N	0
+tt0109830	14	Forrest Gump	FI	\N	imdbDisplay	\N	0
+tt0109830	15	Forrest Gump	UY	\N	\N	\N	0
+tt0109830	16	Forrest Gump	CA	en	imdbDisplay	\N	0
+tt0109830	17	Φόρεστ Γκαμπ	GR	\N	\N	\N	0
+tt0109830	18	Forrest Gump	FI	sv	imdbDisplay	\N	0
+tt0109830	19	Forrest Gump	SK	\N	\N	\N	0
+tt0109830	1	Forrest Gump	PL	\N	\N	\N	0
+tt0109830	20	Forrest Gump	TR	tr	imdbDisplay	\N	0
+tt0109830	21	Forrest Gump	CZ	\N	imdbDisplay	\N	0
+tt0109830	22	Forrest Gump	IN	hi	imdbDisplay	\N	0
+tt0109830	23	Forrest Gump	RO	\N	imdbDisplay	\N	0
+tt0109830	24	Forrest Gump	US	\N	\N	\N	0
+tt0109830	25	Forrest Gump	AR	\N	\N	\N	0
+tt0109830	26	Forrest Gump	AT	\N	\N	\N	0
+tt0109830	27	Forrest Gump	SI	\N	\N	\N	0
+tt0109830	28	Forrest Gump	PE	\N	imdbDisplay	\N	0
+tt0109830	29	Forrest Gump	FR	\N	\N	\N	0
+tt0109830	2	Forrest Gump	GB	\N	imdbDisplay	\N	0
+tt0109830	30	Forrest Gump	GR	\N	imdbDisplay	\N	0
+tt0109830	31	Forrest Gump	IT	\N	imdbDisplay	\N	0
+tt0109830	32	Forrest Gump	MX	\N	\N	\N	0
+tt0109830	33	Forrest Gump	JP	en	\N	\N	0
+tt0109830	34	Forrest Gump	CA	fr	\N	\N	0
+tt0109830	35	Forrest Gump	PT	\N	\N	\N	0
+tt0109830	36	Форест Гъмп	BG	bg	\N	\N	0
+tt0109830	37	Forest Gamp	RS	\N	imdbDisplay	\N	0
+tt0109830	38	Форрест Гамп	UA	\N	\N	\N	0
+tt0109830	3	Forrest Qamp	AZ	\N	imdbDisplay	\N	0
+tt0109830	4	Forrest Gump: The IMAX Experience	US	\N	\N	IMAX version	0
+tt0109830	5	Forestas Gampas	LT	\N	imdbDisplay	\N	0
+tt0109830	6	Forrest Gump	DK	\N	\N	\N	0
+tt0109830	7	Forrest Gump: O Contador de Histórias	BR	\N	imdbDisplay	\N	0
+tt0109830	8	Forrest Gump	\N	\N	original	\N	1
+tt0109830	9	Форрест Гамп	RU	\N	\N	\N	0
+tt0110912	10	Tiempos violentos	MX	\N	\N	\N	0
+tt0110912	11	Dastan-e aame pasand	IR	fa	imdbDisplay	\N	0
+tt0110912	12	Pulp Fiction	RO	\N	imdbDisplay	\N	0
+tt0110912	13	Pulp Fiction	US	\N	\N	\N	0
+tt0110912	14	Tiempos violentos	AR	\N	\N	\N	0
+tt0110912	15	Pulp Fiction	AT	\N	\N	\N	0
+tt0110912	16	Tiempos violentos	PE	\N	imdbDisplay	\N	0
+tt0110912	17	Кримiнальне чтиво	UA	\N	\N	\N	0
+tt0110912	18	Makulatura	GE	\N	imdbDisplay	\N	0
+tt0110912	19	Криминале	BG	bg	\N	\N	0
+tt0110912	1	Pulp Fiction	EE	\N	\N	\N	0
+tt0110912	20	Pulp Fiction	GR	\N	\N	\N	0
+tt0110912	21	Pulp Fiction	IT	\N	\N	\N	0
+tt0110912	22	Pulp Fiction	FR	\N	\N	\N	0
+tt0110912	23	Petparačke priče	RS	\N	\N	\N	0
+tt0110912	24	Šund	SI	\N	\N	\N	0
+tt0110912	25	Pulp Fiction	JP	en	\N	\N	0
+tt0110912	26	Tarinoita väkivallasta	FI	\N	\N	video box title	0
+tt0110912	27	Tiempos violentos	UY	\N	\N	original subtitled version	0
+tt0110912	28	Pulp Fiction	PT	\N	imdbDisplay	\N	0
+tt0110912	29	Pulp Fiction	CA	en	imdbDisplay	\N	0
+tt0110912	2	Pulp Fiction	DE	\N	\N	\N	0
+tt0110912	30	Pulp Fiction	US	en	\N	\N	0
+tt0110912	31	Pulp Fiction	XWW	en	imdbDisplay	\N	0
+tt0110912	32	Pulp Fiction: Historky z podsvetia	SK	\N	imdbDisplay	\N	0
+tt0110912	33	Pulp Fiction	GB	\N	imdbDisplay	\N	0
+tt0110912	34	Pulp Fiction	PL	\N	\N	\N	0
+tt0110912	35	Pulp Fiction: Historky z podsvětí	CZ	\N	\N	\N	0
+tt0110912	36	Black Mask	US	\N	working	\N	0
+tt0110912	37	Fiction pulpeuse	CA	fr	\N	\N	0
+tt0110912	38	Lubene	LV	\N	imdbDisplay	\N	0
+tt0110912	39	Ponyvaregény	HU	\N	\N	\N	0
+tt0110912	3	Pulp Fiction	NO	\N	imdbDisplay	\N	0
+tt0110912	40	Pulp Fiction: Tempo de Violência	BR	\N	imdbDisplay	\N	0
+tt0110912	41	Pulp Fiction	\N	\N	original	\N	1
+tt0110912	42	Pulp Fiction: Tiempos violentos	CL	\N	imdbDisplay	\N	0
+tt0110912	43	Pulp Fiction: Tarinoita väkivallasta	FI	\N	imdbDisplay	\N	0
+tt0110912	44	Pulp Fiction	IN	hi	imdbDisplay	\N	0
+tt0110912	45	Bulvarinis skaitalas	LT	\N	imdbDisplay	\N	0
+tt0110912	46	Pulp Fiction	ES	\N	imdbDisplay	\N	0
+tt0110912	47	Ucuz Roman	TR	tr	imdbDisplay	\N	0
+tt0110912	4	Pulp Fiction	FI	\N	tv	\N	0
+tt0110912	5	Kriminal Qirayet	AZ	\N	imdbDisplay	\N	0
+tt0110912	6	Sifrut Zolla	IL	he	\N	\N	0
+tt0110912	7	Криминальное чтиво	RU	\N	\N	\N	0
+tt0110912	8	Pulp Fiction	DK	\N	\N	\N	0
+tt0110912	9	Pakleni šund	HR	\N	\N	\N	0
+tt0111161	10	Rastegari dar Shawshank	IR	fa	imdbDisplay	\N	0
+tt0111161	11	Avain pakoon	FI	\N	dvd	\N	0
+tt0111161	12	Os Condenados de Shawshank	PT	\N	\N	\N	0
+tt0111161	13	The Shawshank Redemption	\N	\N	original	\N	1
+tt0111161	14	Sueños de Libertad	CL	\N	imdbDisplay	\N	0
+tt0111161	15	Sueño de fuga	MX	es	\N	\N	0
+tt0111161	16	Sueños de libertad	AR	\N	\N	\N	0
+tt0111161	17	Rita Hayworth - Avain pakoon	FI	\N	\N	premiere title	0
+tt0111161	18	Um Sonho de Liberdade	BR	\N	imdbDisplay	\N	0
+tt0111161	19	A remény rabjai	HU	\N	\N	\N	0
+tt0111161	1	The Shawshank Redemption	US	en	\N	\N	0
+tt0111161	20	Bekstvo iz Šošenka	RS	\N	\N	\N	0
+tt0111161	21	Die Verurteilten	DE	\N	\N	\N	0
+tt0111161	22	Le ali della libertà	IT	\N	\N	\N	0
+tt0111161	23	Nyckeln till frihet	SE	\N	\N	\N	0
+tt0111161	24	Vykoupení z věznice Shawshank	CZ	\N	\N	\N	0
+tt0111161	25	Rita Hayworth - nyckel till flykten	FI	sv	\N	\N	0
+tt0111161	26	Rita Hayworth - avain pakoon	FI	\N	imdbDisplay	\N	0
+tt0111161	27	Τελευταία έξοδος: Ρίτα Χέιγουορθ	GR	\N	\N	\N	0
+tt0111161	28	Shôshanku no sora ni	JP	\N	\N	\N	0
+tt0111161	29	Kaznilnica odrešitve	SI	\N	\N	\N	0
+tt0111161	2	Sueño de libertad	UY	\N	\N	\N	0
+tt0111161	30	De ontsnapping	NL	\N	\N	informal literal title	0
+tt0111161	31	Изкуплението Шоушенк	BG	bg	\N	\N	0
+tt0111161	32	En verden udenfor	DK	\N	\N	\N	0
+tt0111161	33	The Shawshank Redemption	CA	en	imdbDisplay	\N	0
+tt0111161	34	Xiao shen ke de jiu shu	CN	cmn	imdbDisplay	\N	0
+tt0111161	35	Homot Shel Tikva	IL	he	\N	\N	0
+tt0111161	36	Sueños de libertad	MX	\N	imdbDisplay	\N	0
+tt0111161	37	Iskupljenje u Shawshanku	HR	\N	imdbDisplay	\N	0
+tt0111161	38	Rita Hayworth -Avain pakoon	FI	\N	\N	video box title	0
+tt0111161	39	Pabegimas iš Šoušenko	LT	\N	\N	\N	0
+tt0111161	3	Frihetens regn	NO	\N	\N	\N	0
+tt0111161	40	The Shawshank Redemption	GB	\N	imdbDisplay	\N	0
+tt0111161	41	Shawshanki lunastus	EE	\N	imdbDisplay	\N	0
+tt0111161	42	Skazani na Shawshank	PL	\N	\N	\N	0
+tt0111161	43	Nhà tù Shawshank	VN	\N	\N	\N	0
+tt0111161	44	Esaretin Bedeli	TR	tr	imdbDisplay	\N	0
+tt0111161	45	Sueño de fuga	MX	\N	\N	DVD box title	0
+tt0111161	46	The Shawshank Redemption	IN	hi	imdbDisplay	\N	0
+tt0111161	47	Închisoarea îngerilor	RO	\N	imdbDisplay	\N	0
+tt0111161	48	Teleftaia exodos: 'Rita Hayworth'	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0111161	49	Cadena perpètua	ES	ca	\N	\N	0
+tt0111161	4	The Shawshank Redemption	XWW	en	imdbDisplay	\N	0
+tt0111161	50	Les évadés	FR	\N	\N	\N	0
+tt0111161	51	The Shawshank Redemption	IS	\N	imdbDisplay	\N	0
+tt0111161	52	À l'ombre de Shawshank	CA	fr	\N	\N	0
+tt0111161	53	Vykúpenie z väznice Shawshank	SK	\N	\N	\N	0
+tt0111161	54	Cadena perpetua	ES	\N	imdbDisplay	\N	0
+tt0111161	55	The Prisoner	PH	en	alternative	\N	0
+tt0111161	56	Sueños de fuga	PE	\N	imdbDisplay	\N	0
+tt0111161	57	The Shawshank Redemption	US	\N	\N	\N	0
+tt0111161	58	Побег из Шоушенка	RU	\N	\N	\N	0
+tt0111161	59	Shawshank Redemption - Avain pakoon	FI	\N	dvd	\N	0
+tt0111161	5	Die Verurteilten	AT	\N	\N	\N	0
+tt0111161	60	Sueños de fuga	CL	\N	alternative	\N	0
+tt0111161	61	Gaqceva shoushenkidan	GE	\N	imdbDisplay	\N	0
+tt0111161	6	Втеча з Шоушенка	UA	\N	\N	\N	0
+tt0111161	7	Shoushenkden Qacish	AZ	\N	imdbDisplay	\N	0
+tt0111161	8	The Shawshank Redemption	AU	\N	imdbDisplay	\N	0
+tt0111161	9	Rita Hayworth and Shawshank Redemption	US	\N	working	\N	0
+tt0114369	10	Shvidi	GE	\N	imdbDisplay	\N	0
+tt0114369	11	Sedem	SI	\N	\N	\N	0
+tt0114369	12	Sebun	JP	\N	\N	\N	0
+tt0114369	13	Sedem	SK	\N	imdbDisplay	\N	0
+tt0114369	14	Siedem	PL	\N	\N	\N	0
+tt0114369	15	Seven	DK	\N	imdbDisplay	\N	0
+tt0114369	16	Seven: Os Sete Crimes Capitais	BR	\N	imdbDisplay	\N	0
+tt0114369	17	Sept	CA	fr	\N	\N	0
+tt0114369	18	Epta	GR	\N	video	\N	0
+tt0114369	19	Seven	NO	\N	imdbDisplay	\N	0
+tt0114369	1	Pecados capitales	AR	\N	\N	\N	0
+tt0114369	20	Haft	IR	fa	imdbDisplay	\N	0
+tt0114369	21	Se7en	FI	\N	\N	reissue title	0
+tt0114369	22	Seven	FI	\N	\N	alternative spelling	0
+tt0114369	23	Se7en	US	\N	imdbDisplay	\N	0
+tt0114369	24	Seven - 7 Pecados Mortais	PT	\N	imdbDisplay	\N	0
+tt0114369	25	Se7en	RO	\N	imdbDisplay	\N	0
+tt0114369	26	Семь	RU	\N	\N	\N	0
+tt0114369	27	The Seven Deadly Sins	US	\N	working	\N	0
+tt0114369	28	Seven	US	\N	\N	alternative spelling	0
+tt0114369	29	Sedam	HR	\N	\N	\N	0
+tt0114369	2	Сiм	UA	\N	\N	\N	0
+tt0114369	30	Seven, los siete pecados capitales	MX	\N	imdbDisplay	\N	0
+tt0114369	31	Se7en	IN	hi	imdbDisplay	\N	0
+tt0114369	32	Septyni	LT	\N	\N	new title	0
+tt0114369	33	Seitsemän	FI	\N	imdbDisplay	\N	0
+tt0114369	34	Seven	SE	\N	imdbDisplay	\N	0
+tt0114369	35	Sieben	AT	\N	\N	\N	0
+tt0114369	36	Seven	FR	\N	\N	\N	0
+tt0114369	37	Седем	BG	bg	\N	\N	0
+tt0114369	38	Seven	GR	\N	\N	\N	0
+tt0114369	39	Seven	IT	\N	imdbDisplay	\N	0
+tt0114369	3	Sedam	RS	\N	\N	\N	0
+tt0114369	40	Pecados capitales	UY	\N	\N	\N	0
+tt0114369	41	Sete Pecados Mortais	PT	\N	\N	\N	0
+tt0114369	42	Yedi	TR	tr	\N	\N	0
+tt0114369	43	Yeddi	AZ	\N	imdbDisplay	\N	0
+tt0114369	44	Seven	NL	\N	imdbDisplay	\N	0
+tt0114369	45	Hetedik	HU	\N	\N	\N	0
+tt0114369	46	Seitse	EE	\N	\N	\N	0
+tt0114369	47	Sieben	DE	\N	\N	\N	0
+tt0114369	48	Seven	GB	\N	video	\N	0
+tt0114369	4	Se7en: pecados capitales	PE	\N	imdbDisplay	\N	0
+tt0114369	5	Sedm	CZ	\N	imdbDisplay	\N	0
+tt0114369	6	Sep7	CA	fr	\N	alternative spelling	0
+tt0114369	7	Seven	ES	\N	imdbDisplay	\N	0
+tt0114369	8	Se7en	\N	\N	original	\N	1
+tt0114369	9	Los siete pecados capitales	DO	\N	\N	\N	0
+tt0120737	10	Le seigneur des anneaux - La communauté de l'anneau	CA	fr	\N	\N	0
+tt0120737	11	Stapînul inelelor: Fratia inelului	RO	\N	\N	\N	0
+tt0120737	12	Властелин колец: Братство кольца	RU	\N	\N	\N	0
+tt0120737	13	Il Signore degli Anelli - La compagnia dell'Anello	IT	\N	imdbDisplay	\N	0
+tt0120737	14	Pán prsteňov: Spoločenstvo Prsteňa	SK	\N	\N	\N	0
+tt0120737	15	Sõrmuste isand: Sõrmuse vennaskond	EE	\N	\N	\N	0
+tt0120737	16	Stapânul Inelelor: Fratia Inelului	RO	ro	imdbDisplay	\N	0
+tt0120737	17	Sagan om ringen: Härskarringen	FI	sv	imdbDisplay	\N	0
+tt0120737	18	Yüzüklerin Efendisi: Yüzük Kardesligi	TR	tr	imdbDisplay	\N	0
+tt0120737	19	Ringenes herre: Eventyret om ringen	DK	\N	\N	\N	0
+tt0120737	1	Hringadróttinssaga: Föruneyti hringsins	IS	\N	\N	\N	0
+tt0120737	20	The Lord of the Rings: The Fellowship of the Ring	NZ	en	\N	\N	0
+tt0120737	21	El señor de los anillos: La comunidad del anillo	AR	\N	\N	\N	0
+tt0120737	22	Lord of the Rings	JP	en	\N	\N	0
+tt0120737	23	Gospodarot na prstenite: Druzhinata na prstenot	MK	\N	imdbDisplay	\N	0
+tt0120737	24	In de ban van de ring: De reisgenoten	NL	\N	\N	informal literal title	0
+tt0120737	25	The Lord of the Rings: The Fellowship of the Ring	NZ	\N	\N	\N	0
+tt0120737	26	O arhontas ton dahtylidion: I syntrofia tou dahtylidiou	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0120737	27	Władca pierścieni: Drużyna Pierścienia	PL	\N	\N	\N	0
+tt0120737	28	A Gyűrűk Ura: A gyűrű szövetsége	HU	\N	\N	\N	0
+tt0120737	29	Taru sormusten herrasta: Sormuksen ritarit	FI	\N	imdbDisplay	\N	0
+tt0120737	2	Žiedu Valdovas: Žiedo brolija	LT	\N	\N	\N	0
+tt0120737	30	Le seigneur des anneaux: La communauté de l'anneau	FR	\N	imdbDisplay	\N	0
+tt0120737	31	Arbab-e halgheha: Yaran-e halgheh	IR	fa	imdbDisplay	\N	0
+tt0120737	32	Rôdo obu za ringu	JP	\N	\N	\N	0
+tt0120737	33	O Senhor dos Anéis - A Irmandade do Anel	PT	\N	\N	\N	0
+tt0120737	34	El señor de los anillos: La comunidad del anillo	ES	\N	imdbDisplay	\N	0
+tt0120737	35	The Lord of the Rings: The Fellowship of the Ring	US	\N	imdbDisplay	\N	0
+tt0120737	36	Ringenes herre: Ringens brorskap	NO	\N	\N	\N	0
+tt0120737	37	O Senhor dos Anéis: A Sociedade do Anel	BR	\N	\N	\N	0
+tt0120737	38	Gospodar prstenova: Prstenova družina	HR	\N	\N	\N	0
+tt0120737	39	Seyyed alkhavatem: Sohbat alkhatam	EG	ar	imdbDisplay	\N	0
+tt0120737	3	The Fellowship of the Ring	US	\N	\N	short title	0
+tt0120737	40	Sagan om ringen	SE	\N	\N	short title	0
+tt0120737	41	Pán prstenů: Společenstvo prstenu	CZ	\N	\N	\N	0
+tt0120737	42	El señor de los anillos: La comunidad del anillo	MX	\N	\N	\N	0
+tt0120737	43	El senyor dels anells: La germandat de l'anell	ES	ca	\N	\N	0
+tt0120737	44	The Lord of the Rings: The Fellowship of the Ring	GB	\N	imdbDisplay	\N	0
+tt0120737	45	El señor de los anillos: La comunidad del anillo	CL	\N	\N	\N	0
+tt0120737	46	Властелинът на пръстените: Задругата на пръстена	BG	bg	\N	\N	0
+tt0120737	47	Bechdebis mbrdzanebeli: Bechdis sadzmo	GE	\N	imdbDisplay	\N	0
+tt0120737	48	Sar HaTabaot: Achvat HaTabaat	IL	he	imdbDisplay	\N	0
+tt0120737	49	Gospodar prstenova - Družina prstena	RS	\N	\N	\N	0
+tt0120737	4	El senyor dels anells: La comunitat de l'anell	ES	ca	\N	video box title	0
+tt0120737	50	Володар перснiв: Хранителi персня	UA	\N	\N	\N	0
+tt0120737	51	El señor de los anillos: La comunidad del anillo	PE	\N	\N	\N	0
+tt0120737	52	Der Herr der Ringe: Die Gefährten	DE	\N	imdbDisplay	\N	0
+tt0120737	53	Sagan om ringen: Härskarringen	SE	\N	imdbDisplay	\N	0
+tt0120737	54	The Lord of the Rings: The Fellowship of the Ring	XWW	en	imdbDisplay	\N	0
+tt0120737	55	Ο άρχοντας των δαχτυλιδιών: Η συντροφιά του δαχτυλιδιού	GR	\N	\N	\N	0
+tt0120737	5	Kryezoti i Unazave: Besëlidhja e Unazës	AL	\N	alternative	\N	0
+tt0120737	6	The Lord of the Rings: The Fellowship of the Ring	IN	hi	imdbDisplay	\N	0
+tt0120737	7	The Lord of the Rings: The Fellowship of the Ring	\N	\N	original	\N	1
+tt0120737	8	The Lord of the Rings: The Fellowship of the Ring: The Motion Picture	US	\N	\N	promotional title	0
+tt0120737	9	Gospodar prstanov: Bratovscina prstana	SI	\N	imdbDisplay	\N	0
+tt0133093	10	Matrix	IT	\N	imdbDisplay	\N	0
+tt0133093	11	Matrix	MX	\N	imdbDisplay	\N	0
+tt0133093	12	Matrix	HR	\N	imdbDisplay	\N	0
+tt0133093	13	Matrikss	LV	\N	imdbDisplay	\N	0
+tt0133093	14	Matrica	SI	\N	imdbDisplay	\N	0
+tt0133093	15	Matrix	BE	fr	\N	\N	0
+tt0133093	16	Matriks	RS	\N	imdbDisplay	\N	0
+tt0133093	17	The Matrix	\N	\N	original	\N	1
+tt0133093	18	Matorikkusu	JP	\N	imdbDisplay	\N	0
+tt0133093	19	Matrix	PL	\N	imdbDisplay	\N	0
+tt0133093	1	The Matrix	NO	\N	\N	\N	0
+tt0133093	20	The Matrix	IN	hi	imdbDisplay	\N	0
+tt0133093	21	The Matrix	AU	\N	imdbDisplay	\N	0
+tt0133093	22	La matriz	PA	\N	alternative	\N	0
+tt0133093	23	Matrix	CZ	\N	imdbDisplay	\N	0
+tt0133093	24	Matrix	TR	tr	imdbDisplay	\N	0
+tt0133093	25	Matrix	PE	\N	imdbDisplay	\N	0
+tt0133093	26	Maatriks	EE	\N	imdbDisplay	\N	0
+tt0133093	27	Matrix	SK	\N	imdbDisplay	\N	0
+tt0133093	28	The Matrix	GB	\N	imdbDisplay	\N	0
+tt0133093	29	Matrix	VE	\N	imdbDisplay	\N	0
+tt0133093	2	The Matrix	US	\N	imdbDisplay	\N	0
+tt0133093	30	Fylkið	IS	\N	imdbDisplay	\N	0
+tt0133093	31	Matrix	FR	\N	imdbDisplay	\N	0
+tt0133093	32	Matrix	AT	\N	imdbDisplay	\N	0
+tt0133093	33	Matrix	SE	\N	imdbDisplay	\N	0
+tt0133093	34	Matrix	AR	\N	imdbDisplay	\N	0
+tt0133093	35	Матрицата	BG	bg	\N	\N	0
+tt0133093	36	Matrix	BR	\N	imdbDisplay	\N	0
+tt0133093	37	Матрикс	RS	\N	\N	\N	0
+tt0133093	38	Matrix	UY	\N	imdbDisplay	\N	0
+tt0133093	39	The Matrix	GR	\N	\N	\N	0
+tt0133093	3	Matrica	LT	\N	imdbDisplay	\N	0
+tt0133093	40	Matrix	RO	\N	imdbDisplay	\N	0
+tt0133093	41	Matrix	FI	\N	\N	video box title	0
+tt0133093	42	La matrice	CA	fr	imdbDisplay	\N	0
+tt0133093	43	Matrix	DE	\N	imdbDisplay	\N	0
+tt0133093	44	Mátrix	HU	\N	\N	\N	0
+tt0133093	45	Matrix	EE	\N	imdbDisplay	\N	0
+tt0133093	4	Matrix	JP	en	imdbDisplay	\N	0
+tt0133093	5	Matrix	ES	\N	imdbDisplay	\N	0
+tt0133093	6	Матриця	UA	\N	\N	\N	0
+tt0133093	7	The Matrix	DK	\N	\N	\N	0
+tt0133093	8	Матрица	RU	\N	\N	\N	0
+tt0133093	9	Matrix	PT	\N	imdbDisplay	\N	0
+tt0137523	10	Fight club - Sala de lupte	RO	\N	imdbDisplay	\N	0
+tt0137523	11	Бойцовский клуб	RU	\N	\N	\N	0
+tt0137523	12	Fight Club	FR	\N	\N	\N	0
+tt0137523	13	Fight Club	GR	\N	\N	\N	0
+tt0137523	14	Harcosok klubja	HU	\N	\N	\N	0
+tt0137523	15	Fight Club	JP	en	\N	\N	0
+tt0137523	16	Döyüshçü Klubu	AZ	\N	imdbDisplay	\N	0
+tt0137523	17	Clube da Luta	BR	\N	\N	\N	0
+tt0137523	18	Fight Club	AT	\N	\N	\N	0
+tt0137523	19	El club de la pelea	MX	\N	\N	\N	0
+tt0137523	1	Бiйцiвський клуб	UA	\N	\N	\N	0
+tt0137523	20	Fight Club	IN	hi	imdbDisplay	\N	0
+tt0137523	21	Klub golih pesti	SI	\N	imdbDisplay	\N	0
+tt0137523	22	Боен клуб	BG	bg	\N	\N	0
+tt0137523	23	Klub boraca	HR	\N	\N	\N	0
+tt0137523	24	Nadi alghetal	EG	ar	imdbDisplay	\N	0
+tt0137523	25	Kaklusklubi	EE	\N	imdbDisplay	\N	0
+tt0137523	26	Fight Club	US	\N	imdbDisplay	\N	0
+tt0137523	27	Podziemny krąg	PL	\N	\N	\N	0
+tt0137523	28	Fight Club	DE	\N	imdbDisplay	\N	0
+tt0137523	29	Fight Club	FI	\N	\N	video box title	0
+tt0137523	2	Kovos klubas	LT	\N	imdbDisplay	\N	0
+tt0137523	30	Fight Club	CA	en	imdbDisplay	\N	0
+tt0137523	31	Mo'adon Krav	IL	he	alternative	\N	0
+tt0137523	32	Fight Club	DK	\N	\N	\N	0
+tt0137523	33	Borechki Klub	MK	\N	imdbDisplay	\N	0
+tt0137523	34	El club de la lucha	ES	\N	imdbDisplay	\N	0
+tt0137523	35	Fight Club	\N	\N	original	\N	1
+tt0137523	36	El club de la pelea	AR	\N	\N	\N	0
+tt0137523	37	Klub Bitkárov	SK	\N	imdbDisplay	\N	0
+tt0137523	38	El club de la pelea	PE	\N	imdbDisplay	\N	0
+tt0137523	3	Bashgah-e moshtzani	IR	fa	imdbDisplay	\N	0
+tt0137523	4	Clube de Combate	PT	\N	\N	\N	0
+tt0137523	5	Klub rváčů	CZ	\N	\N	\N	0
+tt0137523	6	Fight Club	GB	\N	imdbDisplay	\N	0
+tt0137523	7	Borilački klub	RS	\N	\N	\N	0
+tt0137523	8	Dövüs Kulübü	TR	tr	imdbDisplay	\N	0
+tt0137523	9	Fight Club	CA	fr	\N	\N	0
+tt0167260	10	Seyed alkhavatem 3: Awdat almalek	EG	ar	imdbDisplay	\N	0
+tt0167260	11	O Senhor dos Anéis - O Regresso do Rei	PT	\N	\N	\N	0
+tt0167260	12	El senyor dels anells: El retorn del rei	ES	ca	\N	\N	0
+tt0167260	13	Властелин колец: Возвращение короля	RU	\N	\N	\N	0
+tt0167260	14	Le seigneur des anneaux: Le retour du roi	FR	\N	imdbDisplay	\N	0
+tt0167260	15	Ο άρχοντας των δαχτυλιδιών: Η επιστροφή του βασιλιά	GR	\N	\N	\N	0
+tt0167260	16	The Lord of the Rings: The Return of the King	GB	\N	imdbDisplay	\N	0
+tt0167260	17	Taru sormusten herrasta: Kuninkaan paluu	FI	\N	imdbDisplay	\N	0
+tt0167260	18	Der Herr der Ringe: Die Rückkehr des Königs	DE	\N	imdbDisplay	\N	0
+tt0167260	19	El señor de los anillos: El retorno del rey	AR	\N	\N	\N	0
+tt0167260	1	Arbab-e halgheha 3: Bazgasht-e padeshah	IR	fa	imdbDisplay	\N	0
+tt0167260	20	Ringenes herre: Kongen vender tilbage	DK	\N	\N	\N	0
+tt0167260	21	Володар перснiв: Повернення короля	UA	\N	\N	\N	0
+tt0167260	22	The Lord of the Rings: The Return of the King	IN	hi	imdbDisplay	\N	0
+tt0167260	23	The Lord of the Rings: The Return of the King	CA	en	imdbDisplay	\N	0
+tt0167260	24	Gospodar prstenova - Povratak kralja	RS	\N	imdbDisplay	\N	0
+tt0167260	25	Pán prsteňov: Návrat kráľa	SK	\N	\N	\N	0
+tt0167260	26	O arhontas ton dahtylidion: I epistrofi tou vasilia	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0167260	27	In de ban van de ring: De terugkeer van de koning	NL	\N	\N	informal literal title	0
+tt0167260	28	Ringenes herre: Atter en konge	NO	\N	\N	\N	0
+tt0167260	29	Stapanul Inelelor: Intoarcerea Regelui	RO	\N	imdbDisplay	\N	0
+tt0167260	2	The Lord of the Rings: The Return of the King	NZ	\N	\N	\N	0
+tt0167260	30	Kryezoti i Unazave: Kthimi i Mbretit	AL	\N	alternative	\N	0
+tt0167260	31	Властелинът на пръстените: Завръщането на краля	BG	bg	\N	\N	0
+tt0167260	32	Gospodar prstenova: Povratak kralja	HR	\N	imdbDisplay	\N	0
+tt0167260	33	El señor de los anillos: El retorno del rey	ES	\N	imdbDisplay	\N	0
+tt0167260	34	Pán prstenů: Návrat krále	CZ	\N	\N	\N	0
+tt0167260	35	A Gyűrűk Ura: A király visszatér	HU	\N	\N	\N	0
+tt0167260	36	Il Signore degli Anelli - Il ritorno del re	IT	\N	imdbDisplay	\N	0
+tt0167260	37	The Return of the King	US	\N	\N	short title	0
+tt0167260	38	Taru Sormusten Herrasta - Kuninkaan paluu	FI	\N	\N	video box title	0
+tt0167260	39	Rôdo obu za ringu - Ô no kikan	JP	\N	\N	\N	0
+tt0167260	3	The Lord of the Rings: The Return of the King	US	\N	imdbDisplay	\N	0
+tt0167260	40	Gospodarot na prstenite: Vrakjanjeto na kralot	MK	\N	imdbDisplay	\N	0
+tt0167260	41	The Lord of the Rings: The Return of the King	\N	\N	original	\N	1
+tt0167260	42	O Senhor dos Anéis: O Retorno do Rei	BR	\N	\N	\N	0
+tt0167260	43	Hringadróttinssaga: Hilmir snýr heim	IS	\N	\N	\N	0
+tt0167260	44	Sõrmuste isand: Kuninga tagasitulek	EE	\N	\N	\N	0
+tt0167260	45	Le seigneur des anneaux - Le retour du roi	CA	fr	\N	\N	0
+tt0167260	46	El señor de los anillos: El retorno del rey	PE	\N	\N	\N	0
+tt0167260	47	Žiedu Valdovas: Karaliaus sugrižimas	LT	\N	\N	\N	0
+tt0167260	48	El señor de los anillos - El retorno del rey	MX	\N	\N	\N	0
+tt0167260	49	El señor de los anillos: El retorno del rey	PA	\N	\N	\N	0
+tt0167260	4	Sagan om konungens återkomst	SE	\N	imdbDisplay	\N	0
+tt0167260	5	Yüzüklerin Efendisi: Kralin Dönüsü	TR	tr	imdbDisplay	\N	0
+tt0167260	6	Władca pierścieni: Powrót króla	PL	\N	\N	\N	0
+tt0167260	7	Sar Hatabaot: Shivat Hamelekh'	IL	he	imdbDisplay	\N	0
+tt0167260	8	Gospodar prstanov: Kraljeva vrnitev	SI	\N	imdbDisplay	\N	0
+tt0167260	9	Sagan om konungens återkomst	FI	sv	imdbDisplay	\N	0
+tt0167261	10	Arbab-e halgheha 2: Do borj	IR	fa	imdbDisplay	\N	0
+tt0167261	11	Володар перснiв: Двi вежi	UA	\N	\N	\N	0
+tt0167261	12	The Lord of the Rings: The Two Towers	US	\N	imdbDisplay	\N	0
+tt0167261	13	Ringenes herre: De to tårne	DK	\N	imdbDisplay	\N	0
+tt0167261	14	Le seigneur des anneaux: Les deux tours	FR	\N	imdbDisplay	\N	0
+tt0167261	15	Sõrmuste isand: Kaks kantsi	EE	\N	\N	\N	0
+tt0167261	16	O Senhor dos Anéis - As Duas Torres	PT	\N	\N	\N	0
+tt0167261	17	A Gyűrűk Ura: A két torony	HU	\N	\N	\N	0
+tt0167261	18	Hringadróttinssaga: Tveggja turna tal	IS	\N	\N	\N	0
+tt0167261	19	Rôdo obu za ringu - Futatsu no tô	JP	\N	\N	\N	0
+tt0167261	1	Stapânul inelelor: Cele doua turnuri	RO	\N	\N	\N	0
+tt0167261	20	Władca pierścieni: Dwie wieże	PL	\N	\N	\N	0
+tt0167261	21	Sagan om de två tornen	FI	sv	imdbDisplay	\N	0
+tt0167261	22	The Lord of the Rings: The Two Towers	GB	\N	imdbDisplay	\N	0
+tt0167261	23	Pán prstenů: Dvě věže	CZ	\N	\N	\N	0
+tt0167261	24	El señor de los anillos: Las dos torres	AR	\N	\N	\N	0
+tt0167261	25	In de ban van de ring: De twee torens	NL	\N	\N	informal literal title	0
+tt0167261	26	O arhontas ton dahtylidion: Oi dyo pyrgoi	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0167261	27	The Lord of the Rings: The Two Towers	CA	en	imdbDisplay	\N	0
+tt0167261	28	Ο άρχοντας των δαχτυλιδιών: Οι δύο πύργοι	GR	\N	\N	\N	0
+tt0167261	29	Gospodar prstanov: stolpa	SI	\N	imdbDisplay	\N	0
+tt0167261	2	O Senhor dos Anéis: As Duas Torres	BR	\N	\N	\N	0
+tt0167261	30	Taru sormusten herrasta: Kaksi tornia	FI	\N	imdbDisplay	\N	0
+tt0167261	31	The Two Towers	US	\N	\N	short title	0
+tt0167261	32	Властелин колец: Две крепости	RU	\N	\N	\N	0
+tt0167261	33	El señor de los anillos: Las dos torres	ES	\N	imdbDisplay	\N	0
+tt0167261	34	Ringenes herre: To tårn	NO	\N	\N	\N	0
+tt0167261	35	Sagan om de två tornen - härskarringen	SE	\N	imdbDisplay	\N	0
+tt0167261	36	Властелинът на пръстените: Двете кули	BG	bg	\N	\N	0
+tt0167261	37	El señor de los anillos: Las dos torres	MX	\N	\N	\N	0
+tt0167261	38	Il Signore degli Anelli - Le due torri	IT	\N	imdbDisplay	\N	0
+tt0167261	39	Banjieui jewang du gaeeui tab	KR	\N	\N	literal title	0
+tt0167261	3	Le seigneur des anneaux - Les deux tours	CA	fr	\N	\N	0
+tt0167261	40	Gospodar prstenova - Dve kule	RS	\N	imdbDisplay	\N	0
+tt0167261	41	El señor de los anillos: Las dos torres	PE	\N	imdbDisplay	\N	0
+tt0167261	42	The Lord of the Rings: The Two Towers	\N	\N	original	\N	1
+tt0167261	43	Sar Hatabaot: Shnei Hatzri'kh'im	IL	he	imdbDisplay	\N	0
+tt0167261	44	Yüzüklerin Efendisi: Iki Kule	TR	tr	imdbDisplay	\N	0
+tt0167261	45	El señor de los anillos: Las dos torres	VE	\N	\N	\N	0
+tt0167261	46	Gospodarot na prstenite: Dvete kuli	MK	\N	imdbDisplay	\N	0
+tt0167261	47	Kryezoti i Unazave: Dy Kullat	AL	\N	alternative	\N	0
+tt0167261	48	Der Herr der Ringe: Die zwei Türme	DE	\N	imdbDisplay	\N	0
+tt0167261	49	El señor de los anillos: Las dos torres	PA	\N	\N	\N	0
+tt0167261	4	Seyed alkhavatem 2	EG	ar	imdbDisplay	\N	0
+tt0167261	5	Pán prsteňov: Dve veže	SK	\N	\N	\N	0
+tt0167261	6	The Lord of the Rings: The Two Towers	NZ	\N	\N	\N	0
+tt0167261	7	Žiedu Valdovas: Dvi tvirtoves	LT	\N	\N	\N	0
+tt0167261	8	Gospodar prstenova: Dvije kule	HR	\N	imdbDisplay	\N	0
+tt0167261	9	El senyor dels anells: Les dues torres	ES	ca	\N	\N	0
+tt0172495	10	Gladiator	CA	en	imdbDisplay	\N	0
+tt0172495	11	Gladiator	JP	\N	\N	\N	0
+tt0172495	12	Gladiator	US	en	\N	\N	0
+tt0172495	13	Vijeta	IN	hi	\N	literal title	0
+tt0172495	14	Гладiатор	UA	\N	\N	\N	0
+tt0172495	15	Gladiateur	CA	fr	\N	\N	0
+tt0172495	16	Gladiador	BR	\N	\N	\N	0
+tt0172495	17	Skylmingaþrællinn	IS	\N	imdbDisplay	\N	0
+tt0172495	18	Gladiador	VE	\N	\N	\N	0
+tt0172495	19	Gladiador	AR	\N	\N	\N	0
+tt0172495	1	Gladiatorul	RO	\N	\N	\N	0
+tt0172495	20	Gladiator	US	\N	\N	\N	0
+tt0172495	21	Gladiator	DE	\N	\N	\N	0
+tt0172495	22	Μονομάχος	GR	\N	\N	\N	0
+tt0172495	23	Gladiador	MX	\N	imdbDisplay	\N	0
+tt0172495	24	Gladiador	CL	\N	imdbDisplay	\N	0
+tt0172495	25	Gladiator	SI	\N	imdbDisplay	\N	0
+tt0172495	26	Gladiator	XWW	en	imdbDisplay	\N	0
+tt0172495	27	Gladiator	AT	\N	\N	\N	0
+tt0172495	28	Gladiador	PT	\N	\N	\N	0
+tt0172495	29	Gladiator	\N	\N	original	\N	1
+tt0172495	2	Gladyatör	TR	tr	\N	\N	0
+tt0172495	30	Gladiator	IN	en	imdbDisplay	\N	0
+tt0172495	31	Gladiator	DK	\N	\N	\N	0
+tt0172495	32	Monomahos	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0172495	33	Гладиатор	RU	\N	\N	\N	0
+tt0172495	34	Gladiator	BE	\N	imdbDisplay	\N	0
+tt0172495	35	Gladiator	FI	\N	imdbDisplay	\N	0
+tt0172495	36	Gladiator - Special Edition	FI	\N	\N	video box title	0
+tt0172495	37	Gladiador	PE	\N	\N	\N	0
+tt0172495	38	Gladijator	HR	\N	\N	\N	0
+tt0172495	39	The Gladiators	US	\N	working	\N	0
+tt0172495	3	Gladiaattori	FI	\N	tv	\N	0
+tt0172495	40	Gladiaator	EE	\N	\N	\N	0
+tt0172495	41	Гладиатор	BG	bg	\N	\N	0
+tt0172495	42	Gladiatoren	NO	\N	imdbDisplay	\N	0
+tt0172495	43	Gladiator	GB	\N	imdbDisplay	\N	0
+tt0172495	44	Gladiator	PL	\N	\N	\N	0
+tt0172495	45	Gladiátor	HU	\N	\N	\N	0
+tt0172495	46	Gladijator	RS	\N	\N	\N	0
+tt0172495	47	Gladiatorius	LT	\N	imdbDisplay	\N	0
+tt0172495	48	Gladiador	UY	\N	\N	\N	0
+tt0172495	4	Gladiator (El gladiador)	ES	\N	imdbDisplay	\N	0
+tt0172495	5	Gladiátor	SK	\N	\N	\N	0
+tt0172495	6	Gladiátor	CZ	\N	imdbDisplay	\N	0
+tt0172495	7	Gladiator	FR	\N	\N	\N	0
+tt0172495	8	Il gladiatore	IT	\N	\N	\N	0
+tt0172495	9	Gladiator	FI	sv	imdbDisplay	\N	0
+tt0372784	10	Batman: na začetku	SI	\N	\N	\N	0
+tt0372784	11	Бетмен: Початок	UA	\N	\N	\N	0
+tt0372784	12	Batman - El inicio	VE	\N	\N	\N	0
+tt0372784	13	Batman Inicia	UY	\N	\N	\N	0
+tt0372784	14	Batman Begins: The IMAX Experience	US	\N	\N	IMAX version	0
+tt0372784	15	Batman - Początek	PL	\N	\N	\N	0
+tt0372784	16	Batman: El comienzo	VE	\N	\N	\N	0
+tt0372784	17	Batman Begins	US	\N	\N	\N	0
+tt0372784	18	Batman inicia	PE	\N	imdbDisplay	\N	0
+tt0372784	19	Batman inicia	AR	\N	\N	\N	0
+tt0372784	1	Μπάτμαν: Η αρχή	GR	\N	\N	\N	0
+tt0372784	20	Batman inicia	PA	\N	\N	\N	0
+tt0372784	21	Batman Begins	BR	\N	\N	\N	0
+tt0372784	22	Batman Basliyor	TR	tr	imdbDisplay	\N	0
+tt0372784	23	Batman - Inceputuri	RO	\N	imdbDisplay	\N	0
+tt0372784	24	Batman 5	US	\N	working	\N	0
+tt0372784	25	Batman inicia	VE	\N	\N	\N	0
+tt0372784	26	Batman Begins	\N	\N	original	\N	1
+tt0372784	27	Batman comienza	DO	\N	\N	\N	0
+tt0372784	28	Batman začíná	CZ	\N	\N	\N	0
+tt0372784	29	Batman inicia	MX	\N	imdbDisplay	\N	0
+tt0372784	2	Batman - O Início	PT	\N	\N	\N	0
+tt0372784	30	Batman Begins	ES	\N	imdbDisplay	\N	0
+tt0372784	31	Бэтмен: Начало	RU	\N	\N	\N	0
+tt0372784	32	Betmen počinje	RS	\N	\N	\N	0
+tt0372784	33	Batman: Kezdődik!	HU	\N	imdbDisplay	\N	0
+tt0372784	34	Netopierí muž začína	SK	\N	\N	\N	0
+tt0372784	35	Betmenas: Pradžia	LT	\N	\N	\N	0
+tt0372784	36	Batman Begins	DE	\N	\N	\N	0
+tt0372784	37	Batman Begins	NO	\N	imdbDisplay	\N	0
+tt0372784	38	Party In Fresno	GB	\N	\N	copyright title	0
+tt0372784	39	Батман в началото	BG	bg	\N	\N	0
+tt0372784	3	Batman: Početak	HR	\N	\N	\N	0
+tt0372784	40	Batman Begins	CA	en	imdbDisplay	\N	0
+tt0372784	41	Batman: Le commencement	CA	fr	\N	\N	0
+tt0372784	42	Batman Begins	DK	\N	imdbDisplay	\N	0
+tt0372784	43	Batman začína	SK	\N	\N	\N	0
+tt0372784	44	Batman alustab	EE	\N	\N	\N	0
+tt0372784	4	The Intimidation Game	US	\N	\N	fake working title	0
+tt0372784	5	Batman Begins	GR	\N	\N	\N	0
+tt0372784	6	Batman Begins	IT	\N	\N	\N	0
+tt0372784	7	Batman Begins	JP	en	\N	\N	0
+tt0372784	8	Batman: Intimidation	US	\N	\N	original script title	0
+tt0372784	9	Batman Begins	FR	\N	\N	\N	0
+tt0468569	10	The Dark Knight	GB	\N	imdbDisplay	\N	0
+tt0468569	11	Temný Rytier	SK	\N	\N	\N	0
+tt0468569	12	The Dark Knight	DK	\N	imdbDisplay	\N	0
+tt0468569	13	The Dark Knight	IN	en	imdbDisplay	\N	0
+tt0468569	14	Vitez tame	HR	\N	\N	\N	0
+tt0468569	15	Yön ritari	FI	\N	\N	\N	0
+tt0468569	16	The Dark Knight	\N	\N	original	\N	1
+tt0468569	17	Ο σκοτεινός ιππότης	GR	\N	\N	\N	0
+tt0468569	18	Batman - El caballero de la noche	PE	\N	\N	\N	0
+tt0468569	19	Ky si bóng dêm	VN	\N	imdbDisplay	\N	0
+tt0468569	1	The Dark Knight	CA	en	imdbDisplay	\N	0
+tt0468569	20	Untitled Batman Begins Sequel	US	\N	working	\N	0
+tt0468569	21	Kara Sövalye	TR	tr	imdbDisplay	\N	0
+tt0468569	22	Cavalerul negru	RO	\N	imdbDisplay	\N	0
+tt0468569	23	Temný rytíř	CZ	\N	\N	\N	0
+tt0468569	24	Bianfu xia - Heiye zhi shen	HK	cmn	\N	\N	0
+tt0468569	25	Тёмный рыцарь	RU	\N	\N	\N	0
+tt0468569	26	Темний лицар	UA	\N	\N	\N	0
+tt0468569	27	Winter Green	US	\N	\N	fake working title	0
+tt0468569	28	The Dark Knight	US	en	\N	\N	0
+tt0468569	29	Batman: O Cavaleiro das Trevas	BR	\N	imdbDisplay	\N	0
+tt0468569	2	Iravu Kavalan	IN	ta	\N	dubbed version	0
+tt0468569	30	Черният рицар	BG	bg	\N	\N	0
+tt0468569	31	The Dark Knight: Le chevalier noir	FR	\N	imdbDisplay	\N	0
+tt0468569	32	Batman Begins 2	US	\N	working	\N	0
+tt0468569	33	The Dark Knight	XWW	en	imdbDisplay	\N	0
+tt0468569	34	Kalorësi i Errësirës	AL	\N	alternative	\N	0
+tt0468569	35	Le chevalier noir	CA	fr	\N	\N	0
+tt0468569	36	O Cavaleiro das Trevas	PT	\N	imdbDisplay	\N	0
+tt0468569	37	Mračni vitez	RS	\N	\N	\N	0
+tt0468569	38	Pimeduse rüütel	EE	\N	\N	\N	0
+tt0468569	39	Mroczny rycerz	PL	\N	imdbDisplay	\N	0
+tt0468569	3	El caballero oscuro	ES	\N	imdbDisplay	\N	0
+tt0468569	40	Shavi Raindi	GE	\N	imdbDisplay	\N	0
+tt0468569	41	A sötét lovag	HU	\N	\N	\N	0
+tt0468569	42	O skoteinos ippotis	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt0468569	43	Vitez teme	SI	\N	imdbDisplay	\N	0
+tt0468569	44	Tamsos riteris	LT	\N	imdbDisplay	\N	0
+tt0468569	45	Dâku naito	JP	\N	\N	\N	0
+tt0468569	46	Batman: Atsawinrattikan	TH	th	imdbDisplay	\N	0
+tt0468569	47	Batman - El caballero de la noche	AR	\N	\N	\N	0
+tt0468569	48	Batman 2 - El caballero de la noche	VE	\N	\N	\N	0
+tt0468569	49	El cavaller fosc	ES	ca	imdbDisplay	\N	0
+tt0468569	4	Batman: El Caballero de la Noche	MX	\N	imdbDisplay	\N	0
+tt0468569	50	The Dark Knight: The IMAX Experience	US	\N	\N	IMAX version	0
+tt0468569	51	The Dark Knight	US	\N	imdbDisplay	\N	0
+tt0468569	52	The Dark Knight	DE	\N	\N	\N	0
+tt0468569	53	Rökkurriddarinn	IS	\N	imdbDisplay	\N	0
+tt0468569	5	Batman: El caballero de la noche	UY	\N	\N	original subtitled version	0
+tt0468569	6	The Dark Knight	IN	hi	imdbDisplay	\N	0
+tt0468569	7	Il cavaliere oscuro	IT	\N	\N	\N	0
+tt0468569	8	Rory's First Kiss	US	\N	\N	fake working title	0
+tt0468569	9	Batman: The Dark Knight	US	\N	\N	informal title	0
+tt0816692	10	Yildizlararasi	TR	tr	imdbDisplay	\N	0
+tt0816692	11	Interstellar: Calatorind prin univers	RO	\N	imdbDisplay	\N	0
+tt0816692	12	Iнтeрстеллар	UA	\N	\N	\N	0
+tt0816692	13	Udhëtimi Ndëryjor	AL	\N	alternative	\N	0
+tt0816692	14	Interstellar	US	\N	\N	\N	0
+tt0816692	15	Du Hành Liên Sao	VN	\N	imdbDisplay	\N	0
+tt0816692	16	Interstelari	GE	\N	imdbDisplay	\N	0
+tt0816692	17	Interstellar	DE	\N	imdbDisplay	\N	0
+tt0816692	18	Interestelar	ES	\N	\N	alternative spelling	0
+tt0816692	19	Flora's Letter	US	\N	\N	fake working title	0
+tt0816692	1	Interestelar	MX	\N	imdbDisplay	\N	0
+tt0816692	20	Interstellar	\N	\N	original	\N	1
+tt0816692	21	Xing Ji Chuan Yue	CN	cmn	imdbDisplay	\N	0
+tt0816692	22	Интерстеллар	RU	\N	\N	\N	0
+tt0816692	23	Interestelar	UY	\N	\N	original subtitled version	0
+tt0816692	24	Interstellar	ES	\N	imdbDisplay	\N	0
+tt0816692	25	Interstellaire	CA	fr	imdbDisplay	\N	0
+tt0816692	26	Untitled Steven Spielberg Space Project	US	\N	working	\N	0
+tt0816692	27	Интерстелар	BG	bg	\N	\N	0
+tt0816692	28	Interstellar	IN	hi	imdbDisplay	\N	0
+tt0816692	29	Interstellar	GB	\N	\N	literal English title	0
+tt0816692	2	Interstellar	US	en	\N	\N	0
+tt0816692	30	Interestelar	PE	\N	imdbDisplay	\N	0
+tt0816692	31	Csillagok között	HU	\N	imdbDisplay	\N	0
+tt0816692	32	Interestelar	AR	\N	imdbDisplay	\N	0
+tt0816692	33	Interestelar	BR	\N	imdbDisplay	\N	0
+tt0816692	34	Medzvezdje	SI	\N	imdbDisplay	\N	0
+tt0816692	35	Tähtedevaheline	EE	\N	imdbDisplay	\N	0
+tt0816692	36	Bein kokhavim	IL	he	imdbDisplay	\N	0
+tt0816692	37	Međuzvezdani	RS	\N	\N	\N	0
+tt0816692	3	Interestelar	CL	\N	imdbDisplay	\N	0
+tt0816692	4	Ulduzlararasi	AZ	\N	imdbDisplay	\N	0
+tt0816692	5	Interstellar	GR	\N	imdbDisplay	\N	0
+tt0816692	6	Interstellar	IT	\N	imdbDisplay	\N	0
+tt0816692	7	Tarp žvaigždžiu	LT	\N	\N	\N	0
+tt0816692	8	Interstellar	XWW	en	imdbDisplay	\N	0
+tt0816692	9	Interstellar	FR	\N	imdbDisplay	\N	0
+tt1345836	10	Vzpon Viteza teme	SI	\N	imdbDisplay	\N	0
+tt1345836	11	Tamsos riterio sugrižimas	LT	\N	\N	\N	0
+tt1345836	12	Batman: El caballero de la noche asciende	UY	\N	imdbDisplay	\N	0
+tt1345836	13	Dâku naito raijingu	JP	\N	imdbDisplay	\N	0
+tt1345836	14	Arkham	US	\N	working	\N	0
+tt1345836	15	Tumsais bruninieks atgriezas	LV	\N	imdbDisplay	\N	0
+tt1345836	16	The Dark Knight Rises	IN	en	imdbDisplay	\N	0
+tt1345836	17	Gotham	US	\N	working	\N	0
+tt1345836	18	Návrat Temného rytiera	SK	\N	\N	\N	0
+tt1345836	19	Batman 3	US	\N	working	\N	0
+tt1345836	1	Черният рицар: Възраждане	BG	bg	\N	\N	0
+tt1345836	20	Uspon Mračnog viteza	RS	\N	\N	\N	0
+tt1345836	21	Batman: El caballero de la noche asciende	AR	\N	imdbDisplay	\N	0
+tt1345836	22	The Dark Knight Rises	\N	\N	original	\N	1
+tt1345836	23	A sötét lovag: Felemelkedés	HU	\N	imdbDisplay	\N	0
+tt1345836	24	Ky Si Bong Dem Troi Day	VN	\N	imdbDisplay	\N	0
+tt1345836	25	The Dark Knight Rises	HK	en	imdbDisplay	\N	0
+tt1345836	26	The Dark Knight Rises	CA	en	imdbDisplay	\N	0
+tt1345836	27	Shavi Raindis Agzeveba	GE	\N	imdbDisplay	\N	0
+tt1345836	28	O Cavaleiro das Trevas Renasce	PT	\N	imdbDisplay	\N	0
+tt1345836	29	El caballero oscuro: La leyenda renace	ES	\N	imdbDisplay	\N	0
+tt1345836	2	Vitez tame: Povratak	HR	\N	imdbDisplay	\N	0
+tt1345836	30	The Dark Knight Rises: The IMAX Experience	US	\N	\N	IMAX version	0
+tt1345836	31	Kara Sövalye Yükseliyor	TR	tr	imdbDisplay	\N	0
+tt1345836	32	Vitez tame: Povratak	BA	hr	imdbDisplay	\N	0
+tt1345836	33	L'ascension du chevalier noir	CA	fr	imdbDisplay	\N	0
+tt1345836	34	The Dark Knight Rises	FR	\N	imdbDisplay	\N	0
+tt1345836	35	Bianfu xia: Ye shen qiyi	HK	cmn	imdbDisplay	\N	0
+tt1345836	36	Dakeu naiteu raijeu	KR	\N	imdbDisplay	\N	0
+tt1345836	37	Pinfuk haap: Ye san heiyi	HK	yue	imdbDisplay	\N	0
+tt1345836	38	Bianfu xia: Hei'an qishi jueqi	CN	cmn	imdbDisplay	\N	0
+tt1345836	39	Ο σκοτεινός ιππότης: Η επιστροφή	GR	\N	\N	\N	0
+tt1345836	3	O skoteinos ippotis: I epistrofi	GR	\N	\N	alternative transliteration	0
+tt1345836	40	Pimeduse rüütli taastulek	EE	\N	imdbDisplay	\N	0
+tt1345836	41	The Dark Knight Rises	GB	\N	imdbDisplay	\N	0
+tt1345836	42	Aliyato shel ha'abir ha'af'el	IL	he	imdbDisplay	\N	0
+tt1345836	43	Batman: El caballero de la noche asciende	PE	\N	imdbDisplay	\N	0
+tt1345836	44	Mroczny Rycerz powstaje	PL	\N	imdbDisplay	\N	0
+tt1345836	45	Hei'an qishi: Liming shengqi	TW	\N	imdbDisplay	\N	0
+tt1345836	46	Batman: O Cavaleiro das Trevas Ressurge	BR	\N	imdbDisplay	\N	0
+tt1345836	47	The Dark Knight Rises	DE	\N	imdbDisplay	\N	0
+tt1345836	48	Batman: El caballero de la noche asciende	MX	\N	imdbDisplay	\N	0
+tt1345836	49	Тёмный рыцарь: Возрождение легенды	RU	\N	\N	\N	0
+tt1345836	4	Batman 3: Dark knight ki vijay	IN	hi	alternative	\N	0
+tt1345836	50	T.D.K.R.	US	\N	\N	informal short title	0
+tt1345836	51	Batman: El caballero de la noche asciende	CL	\N	imdbDisplay	\N	0
+tt1345836	52	Yön Ritarin paluu	FI	\N	imdbDisplay	\N	0
+tt1345836	53	El cavaller fosc: La llegenda reneix	ES	ca	imdbDisplay	\N	0
+tt1345836	5	Cavalerul negru: Legenda renaste	RO	\N	imdbDisplay	\N	0
+tt1345836	6	Темний лицар повертаеться	UA	\N	\N	\N	0
+tt1345836	7	Temný rytíř povstal	CZ	\N	\N	\N	0
+tt1345836	8	Il cavaliere oscuro - Il ritorno	IT	\N	imdbDisplay	\N	0
+tt1345836	9	Magnus Rex	US	\N	\N	fake working title	0
+tt1375666	10	Începutul	RO	\N	imdbDisplay	\N	0
+tt1375666	11	Початок	UA	\N	\N	\N	0
+tt1375666	12	Algus	EE	\N	\N	\N	0
+tt1375666	13	Početak	RS	\N	\N	\N	0
+tt1375666	14	Chakravuyh	IN	hi	\N	literal title	0
+tt1375666	15	Počátek	CZ	\N	\N	\N	0
+tt1375666	16	Οι ονειροπαγιδευτές	GR	\N	\N	\N	0
+tt1375666	17	Eredet	HU	\N	\N	\N	0
+tt1375666	18	Hat'hala	IL	he	imdbDisplay	\N	0
+tt1375666	19	El origen	UY	\N	\N	\N	0
+tt1375666	1	El origen	PE	\N	imdbDisplay	\N	0
+tt1375666	20	Inception	\N	\N	original	\N	1
+tt1375666	21	Генезис	BG	bg	\N	\N	0
+tt1375666	22	Baslangiç	TR	tr	imdbDisplay	\N	0
+tt1375666	23	El origen	CO	\N	working	\N	0
+tt1375666	24	Inception	US	\N	imdbDisplay	\N	0
+tt1375666	25	Начало	RU	\N	\N	\N	0
+tt1375666	26	Izvor	SI	\N	imdbDisplay	\N	0
+tt1375666	27	Jit Phi Khat Lôk	TH	th	imdbDisplay	\N	0
+tt1375666	28	Pirmsakums	LV	\N	imdbDisplay	\N	0
+tt1375666	29	Inception	DK	\N	imdbDisplay	\N	0
+tt1375666	2	Dasatskisi	GE	\N	imdbDisplay	\N	0
+tt1375666	30	Oliver's Arrow	US	\N	\N	fake working title	0
+tt1375666	31	Počiatok	SK	\N	\N	\N	0
+tt1375666	32	Inception	BE	\N	imdbDisplay	\N	0
+tt1375666	33	Origen	ES	\N	imdbDisplay	\N	0
+tt1375666	34	Inception	DE	\N	imdbDisplay	\N	0
+tt1375666	35	Inception	FR	\N	imdbDisplay	\N	0
+tt1375666	36	A Origem	PT	\N	\N	\N	0
+tt1375666	37	Inception	IN	en	imdbDisplay	\N	0
+tt1375666	38	Inception	GR	\N	imdbDisplay	\N	0
+tt1375666	39	Inception	IT	\N	imdbDisplay	\N	0
+tt1375666	3	Talghin	IR	fa	imdbDisplay	\N	0
+tt1375666	40	Pradžia	LT	\N	\N	\N	0
+tt1375666	41	Inception	XWW	en	imdbDisplay	\N	0
+tt1375666	42	El origen	MX	\N	\N	\N	0
+tt1375666	43	Inception: The IMAX Experience	US	\N	\N	IMAX version	0
+tt1375666	44	Početak	HR	\N	\N	\N	0
+tt1375666	45	A Origem	BR	\N	\N	\N	0
+tt1375666	46	El origen	CL	\N	imdbDisplay	\N	0
+tt1375666	4	Inception	GB	\N	imdbDisplay	\N	0
+tt1375666	5	El origen	AR	\N	\N	\N	0
+tt1375666	6	Incepcja	PL	\N	imdbDisplay	\N	0
+tt1375666	7	Inception	JP	\N	imdbDisplay	\N	0
+tt1375666	8	Inception	US	en	\N	\N	0
+tt1375666	9	Origine	CA	fr	\N	\N	0
+tt1853728	10	Zencirsiz Canqo	AZ	\N	imdbDisplay	\N	0
+tt1853728	11	Django Unchained	US	\N	imdbDisplay	\N	0
+tt1853728	12	Django Libertado	PT	\N	imdbDisplay	\N	0
+tt1853728	13	Django Unchained	DE	\N	imdbDisplay	\N	0
+tt1853728	14	Django, ο τιμωρός	GR	\N	\N	\N	0
+tt1853728	15	Django elszabadul	HU	\N	imdbDisplay	\N	0
+tt1853728	16	Django sin cadenas	UY	\N	imdbDisplay	\N	0
+tt1853728	17	Odbjegli Django	HR	\N	imdbDisplay	\N	0
+tt1853728	18	Django Unchained	LU	fr	imdbDisplay	\N	0
+tt1853728	19	Nespoutaný Django	CZ	\N	imdbDisplay	\N	0
+tt1853728	1	Vabastatud Django	EE	\N	imdbDisplay	\N	0
+tt1853728	20	Джанго освобожденный	RU	\N	\N	\N	0
+tt1853728	21	Jango-ye raha shode	IR	fa	imdbDisplay	\N	0
+tt1853728	22	Django Khot Khon Dan Theuoen	TH	th	imdbDisplay	\N	0
+tt1853728	23	Django sin cadenas	AR	\N	imdbDisplay	\N	0
+tt1853728	24	Django déchaîné	CA	fr	imdbDisplay	\N	0
+tt1853728	25	Đangova osveta	RS	\N	\N	\N	0
+tt1853728	26	Django sin cadenas	PA	\N	imdbDisplay	\N	0
+tt1853728	27	Django Unchained	IT	\N	imdbDisplay	\N	0
+tt1853728	28	Django Unchained	FR	\N	imdbDisplay	\N	0
+tt1853728	29	Django sin cadenas	PE	\N	imdbDisplay	\N	0
+tt1853728	2	Django Unchained	\N	\N	original	\N	1
+tt1853728	30	Django, o timoros	GR	\N	\N	transliterated ISO-LATIN-1 title	0
+tt1853728	31	Django sin cadenas	EC	\N	imdbDisplay	\N	0
+tt1853728	32	Django desencadenat	ES	ca	imdbDisplay	\N	0
+tt1853728	33	Django Unchained	IN	hi	imdbDisplay	\N	0
+tt1853728	34	Джанго без окови	BG	bg	\N	\N	0
+tt1853728	35	Django Unchained	GB	\N	imdbDisplay	\N	0
+tt1853728	36	Django sin cadenas	CL	\N	imdbDisplay	\N	0
+tt1853728	37	Django desencadenado	ES	\N	imdbDisplay	\N	0
+tt1853728	38	Джанго вiльний	UA	\N	\N	\N	0
+tt1853728	39	Django Lelo Ma'atzorim	IL	he	imdbDisplay	\N	0
+tt1853728	3	Django Livre	BR	\N	imdbDisplay	\N	0
+tt1853728	40	Zincirsiz	TR	tr	imdbDisplay	\N	0
+tt1853728	41	Django sin cadenas	MX	\N	imdbDisplay	\N	0
+tt1853728	4	Django	PL	\N	imdbDisplay	\N	0
+tt1853728	5	Django Tsunagarezaru Mono	JP	\N	imdbDisplay	\N	0
+tt1853728	6	Ištrukęs Džango	LT	\N	\N	\N	0
+tt1853728	7	Django dezlantuit	RO	\N	imdbDisplay	\N	0
+tt1853728	8	Django brez okovov	SI	\N	imdbDisplay	\N	0
+tt1853728	9	Hành Trình Django	VN	\N	imdbDisplay	\N	0

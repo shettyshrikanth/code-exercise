@@ -1,0 +1,36 @@
+tconst  titleType	primaryTitle	 originalTitle	isAdult startYear	endYear runtimeMinutes  genres
+tt0111161	movie	The Shawshank Redemption	 The Shawshank Redemption	 0	1994	 \N  142 Drama
+tt0468569	movie	The Dark Knight The Dark Knight 0	2008	 \N  152 Action,Crime,Drama
+tt1375666	movie	Inception	Inception	0	2010	\N  148 Action,Adventure,Sci-Fi
+tt0137523	movie	Fight Club  Fight Club  0	1999	\N  139 Drama
+tt0110912	movie	Pulp Fiction	 Pulp Fiction	 0	1994	\N  154 Crime,Drama
+tt0109830	movie	Forrest Gump	 Forrest Gump	 0	1994	\N  142 Drama,Romance
+tt0167260	movie	The Lord of the Rings: The Return of the King	The Lord of the Rings: The Return of the King	0	2003	 \N  201 Adventure,Drama,Fantasy
+tt0120737	movie	The Lord of the Rings: The Fellowship of the Ring	The Lord of the Rings: The Fellowship of the Ring	0	2001	 \N  178 Adventure,Drama,Fantasy
+tt0068646	movie	The Godfather	The Godfather	0	1972	 \N  175 Crime,Drama
+tt0133093	movie	The Matrix  The Matrix  0	1999	 \N  136 Action,Sci-Fi
+tt0167261	movie	The Lord of the Rings: The Two Towers	The Lord of the Rings: The Two Towers	0	2002	 \N  179 Adventure,Drama,Fantasy
+tt1345836	movie	The Dark Knight Rises	The Dark Knight Rises	0	2012	 \N  164 Action,Thriller
+tt0816692	movie	Interstellar	 Interstellar	 0	2014	 \N  169 Adventure,Drama,Sci-Fi
+tt0114369	movie	Se7en	Se7en	0	1995	 \N  127 Crime,Drama,Mystery
+tt0172495	movie	Gladiator	Gladiator	0	2000	 \N  155 Action,Adventure,Drama
+tt1853728	movie	Django Unchained	 Django Unchained	 0	2012	 \N  165 Drama,Western
+tt0102926	movie	The Silence of the Lambs	 The Silence of the Lambs	 0	1991	 \N  118 Crime,Drama,Thriller
+tt0372784	movie	Batman Begins	Batman Begins	0	2005	 \N  140 Action,Adventure
+tt0108052	movie	Schindler's List	 Schindler's List	 0	1993	 \N  195 Biography,Drama,History
+tt0076759	movie	Star Wars: Episode IV - A New Hope  Star Wars	0	1977	 \N  121 Action,Adventure,Fantasy
+tt0120815	movie	Saving Private Ryan Saving Private Ryan 0	1998	 \N  169 Drama,War
+tt0848228	movie	The Avengers	 The Avengers	 0	2012	 \N  143 Action,Adventure,Sci-Fi
+tt0361748	movie	Inglourious Basterds	 Inglourious Basterds	 0	2009	 \N  153 Adventure,Drama,War
+tt0080684	movie	Star Wars: Episode V - The Empire Strikes Back  Star Wars: Episode V - The Empire Strikes Back  0	1980	 \N  124 Action,Adventure,Fantasy
+tt0407887	movie	The Departed	 The Departed	 0	2006	 \N  151 Crime,Drama,Thriller
+tt8202652	short	The T-Shirt	La camiseta	0	2018	\N	15	Drama,Short
+tt10695440	tvEpisode	I got RAIDED in Minecraft!!!	I got RAIDED in Minecraft!!!	0	2019	\N	33	Adventure,Comedy,Drama
+tt10084492	tvEpisode	The Ending of the End - Part 1	The Ending of the End - Part 1	0	2019	\N	\N	Adventure,Animation,Comedy
+tt10084494	tvEpisode	The Ending of the End - Part 2	The Ending of the End - Part 2	0	2019	\N	\N	Adventure,Animation,Comedy
+tt6412164	tvEpisode	Super Dave	Super Dave	0	2013	\N	62	Comedy,Talk-Show
+tt2294784	tvEpisode	Therapeutic Tendencies	Therapeutic Tendencies	0	2012	\N	\N	Adventure,Comedy,Drama
+tt0808029	tvEpisode	Sobre 'Muerte en el Nilo'	Sobre 'Muerte en el Nilo'	0	2005	\N	\N	Documentary
+tt9239874	tvEpisode	Review de "Ralph Breaks the Internet"	Review de "Ralph Breaks the Internet"	0	2018	\N	14	Reality-TV
+tt6322284	tvEpisode	Anushka Sharma and Neil Bhoopalam	Anushka Sharma and Neil Bhoopalam	0	2015	\N	\N	Comedy,Talk-Show
+tt1015557	tvEpisode	Episode #1.5026	Episode #1.5026	0	2007	\N	\N	Drama,Romance
