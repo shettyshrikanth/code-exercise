@@ -30,7 +30,7 @@ The `pom.xml` dependencies : -
   * title.principals.tsv --title.basics file path
   * title.akas.tsv    -- title.akas file path
 
-# The pom also includes two exec goals: -
+# Pom includes two exec goals: -
 * `exec:exec@run-local` - run the code using local spark standalone cluster
 * `exec:exec@run-yarn` - run the code on a remote yarn cluster. In order for this to work the core-site.xml and yarn-site.xml configuration files from the remote cluster must be copied into the spark-remote/conf directory.
 
