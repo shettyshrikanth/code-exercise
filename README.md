@@ -8,7 +8,7 @@ This archive contains an Maven project for Scala Spark application.
 
 # Details
 
-The `pom.xml` contains example dependencies for : -
+The `pom.xml` dependencies : -
 
 * Spark 2.3.2
 * scala 2.11.11
@@ -42,10 +42,11 @@ run maven command - `mvn clean install exec:exec@run-local -DskipTest`
 
 # run spark yarn cluster
 run maven command - `mvn clean install exec:exec@run-yarn -DskipTest`
+
 **(In order for this to work the core-site.xml and yarn-site.xml configuration files from the remote cluster must be copied into the spark-remote/conf directory).
 
 # Output files (in output directory)
-* top-movies.txt --contains top 20 movies(Ignored averageNumberOfVotes calculation, since its a costant, no differennce in the outcome)
+* top-movies.txt --contains top 20 movies(Ignored `averageNumberOfVotes` calculation, since its a costant, no differennce in the outcome)
 * often-credited-persons.txt --List of persons who are most often credited
 * title-akas.txt --Different titles of the top 20 movies
 
